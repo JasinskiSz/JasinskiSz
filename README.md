@@ -1,5 +1,16 @@
-### Hi there 👋
 
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Szymon! </h1>
+
+<p align="center">
+Nice to see you here❤️!
+
+<p align="center">
+...but his page is still under construction
+
+<!-- GIF -->
+<p align="center">
+<img src="https://media.tenor.com/t8yevWKQ3wAAAAAC/construction-worker.gif" />
+	
 <!--
 **JasinskiSz/JasinskiSz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
