@@ -5,7 +5,7 @@
 Nice to see you here❤️!
 
 <p align="center">
-...but his page is still under construction
+...but this page is still under construction
 
 <!-- GIF -->
 <p align="center">
